@@ -15,3 +15,15 @@
 2. Explain the role and responsibilities of the Scrum Master vs the Product Owner
   The role of the Scrum Master is to facilitate the process by which people use Scrum. His responibilities are to remove roadblocks, keep the team productive and facilitate Scrum Events.
   The role of the Product Owner is to prioritize work. His responsibilities include to work on the Project backlog, accept new tasks and assignments and make sure that the work is done efficiently.
+
+3. What are the types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+  a. Sprint Planning Meeting
+    Determine what to complete in the coming sprint
+    Move stories in sprint scope from backlog to current sprint
+  b. Daily Scrum/Standup Meeting
+    Short meeting that happens every day of the sprint
+    Team members discuss work completed, work plan for the day and any blockers
+  c. Sprint Retrospective Meeting
+    Occurs at the end of the sprint
+    Discuss work completed and move incomplete work to backlog
+
