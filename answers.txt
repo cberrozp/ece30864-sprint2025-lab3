@@ -27,3 +27,9 @@
     Occurs at the end of the sprint
     Discuss work completed and move incomplete work to backlog
 
+4. Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+  An Epic captures a large body of work that can be broken into several smaller stories.
+  A Story is a software system requirement that can be expressed in a few short sentences.
+  A Task represents a set of work that needs to be done.
+  A Bug is a problem that impedes one of the issues from being completed.
+
