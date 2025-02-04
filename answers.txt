@@ -11,3 +11,7 @@
   Cons of Non-Agile Development:
     It is Costly.
     It is Risky.
+
+2. Explain the role and responsibilities of the Scrum Master vs the Product Owner
+  The role of the Scrum Master is to facilitate the process by which people use Scrum. His responibilities are to remove roadblocks, keep the team productive and facilitate Scrum Events.
+  The role of the Product Owner is to prioritize work. His responsibilities include to work on the Project backlog, accept new tasks and assignments and make sure that the work is done efficiently.
